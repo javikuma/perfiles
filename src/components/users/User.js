@@ -36,7 +36,7 @@ const User = ({ match }) => {
     return (
         <>
             <Link to='/' className='btn btn-light'>
-                Volver a la búsqueda
+                Atrás
             </Link>
             Disponible:{' '}
             {hireable ? (
